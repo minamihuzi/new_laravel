@@ -1,0 +1,17 @@
+/.env.testing
+/.phpstorm.meta.php
+/vendor
+/node_modules
+.env
+.idea
+installed
+/.settings/
+/.project
+/.buildpath
+/composer.phar
+_ide_helper.php
+*.swp
+
+
+# Do not include backup lang files
+resources/lang/*/[a-zA-Z]*20[0-9][0-9][0-1][0-9][0-3][0-9]_[0-2][0-9][0-5][0-9][0-5][0-9].php

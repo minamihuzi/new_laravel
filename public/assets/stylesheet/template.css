@@ -1,0 +1,157 @@
+.template-page .header{
+	padding: 10px;
+	text-align: center;
+	min-height:100px;
+}
+
+.toolbox-list{
+	display:block;
+}
+
+.toolbox-list .row.form-group{
+	margin: 0px 0px 8px 0px;
+}
+
+.template-page{
+	background-color: #fff; 
+	border-radius: 5px; 
+	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175); 
+	padding:30px 50px 20px 50px;
+}
+
+.toolbox-col{
+	margin-left:0px;
+	padding: 0px 5px 5px 20px; 
+	background-color: #eff4ff;
+	border: 1px solid #aaf;
+}
+
+.toolbox-col h4{
+  display: block;
+	width: 100%;
+	color: #339;	
+}
+
+form>.form-group{
+	background: #fff;
+	padding:2px 0px;
+}
+
+.toolbox-list .form-group{
+  border:1px dotted #99a; 
+	white-space:nowarp;
+}
+
+.toolbox-list .col-md-4,
+.toolbox-list .col-md-8,
+.toolbox-list .col-md-12{
+  padding:2px;	
+}
+
+.toolbox-list form label{
+	font-size:12px;
+}
+
+.toolbox-list form .form-control
+{
+	padding:2px 3px;	
+	width: 100%;
+	min-height: 40px;
+}
+
+.form-group .checkbox label{
+	margin-bottom: 10px;
+}
+
+.template-col{
+	padding: 30px;
+	padding: 0px 30px 30px 30px; 
+}
+
+.header .title{
+	max-width: 80px !important;
+	min-width: 400px !important;
+	border: none !important;
+	font-size: 24px !important;
+}
+
+.template-page.edit-mode .header .title{
+	border-bottom: 1px solid #99f !important;
+	background: #eef !important;
+}
+
+.template-page.edit-mode .sign-ctrl{
+	min-height:40px !important;
+}
+
+.template-page .header .logo-preview{
+	background: #eee;
+	float: right !important;
+	display: block !important;
+	visibility: visible !important;
+	width: 50px;
+	height: 50px;
+	position: relative;
+}
+
+.template-page .header .logo-preview[src=""]{
+	display: none !important;
+	visibility: hidden !important;
+}
+
+.template-page.edit-mode .header .logo-preview{
+	display: block !important;
+	visibility: visible !important;
+}
+
+.remove-link, .edit-link{
+	font-size: 13px !important;;
+	border:1px solid #a66;
+	padding:2px;
+	color: #a66;
+}
+
+.remove-link:hover, .edit-link:hover{
+	color: #f88;
+}
+
+.template-page .form-group{
+	border: none;
+	padding:2px;
+	margin-bottom: 3px;
+}
+
+.template-page .form-group .tools{
+	visibility: hidden;
+}
+
+.template-page.edit-mode .form-group .tools{
+	visibility: visible;
+}
+
+.template-page.edit-mode .form-group{
+	border:1px dotted #6a6;
+}
+
+.modal-dialog .modal-body .row{
+  margin-left:0px;
+  margin-right: 0px;
+}
+
+.template-col .toolbar .btn{
+	display: block;
+	float:right;
+	margin-left:10px;
+	margin-bottom:10px; 
+}
+
+.template-page .template-paragraph,
+.template-page .template-rich-text{
+	text-align: justify
+}
+
+.template-page .sign-ctrl{
+	width: 100%;
+	display: block;
+	height: auto;
+}

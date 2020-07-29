@@ -1,0 +1,16 @@
+[30-May-2020 14:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function payment_check() in /home/eric/public_html/Whisprrz_Wevents/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eric/public_html/Whisprrz_Wevents/public/index.php on line 7
+[30-May-2020 14:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function payment_check() in /home/eric/public_html/Whisprrz_Wevents/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eric/public_html/Whisprrz_Wevents/public/index.php on line 7
+[30-May-2020 14:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function payment_check() in /home/eric/public_html/Whisprrz_Wevents/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eric/public_html/Whisprrz_Wevents/public/index.php on line 7
+[30-May-2020 14:16:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function payment_check() in /home/eric/public_html/Whisprrz_Wevents/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eric/public_html/Whisprrz_Wevents/public/index.php on line 7
